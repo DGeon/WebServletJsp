@@ -18,21 +18,27 @@
 
 ### 사용 기술
 
-
+<div align="left">
 
 <img src="https://img.shields.io/badge/html5-yellow?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-yellow?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/jquery-yellow?style=flat&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
 <br>
+
 <img src="https://img.shields.io/badge/java-blue?style=flat&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/lombok-blue?style=flat&logo=lombok&logoColor=white"/>
 <br>
+
 <img src="https://img.shields.io/badge/mariadb-red?style=flat&logo=mariadb&logoColor=white"/>
 <br>
+
 <img src="https://img.shields.io/badge/tomcat9-gray?style=flat&logo=apachetomcat&logoColor=white"/>
 <br>
+
 <img src="https://img.shields.io/badge/VSC-gray?style=flat&logo=visualstudiocode&logoColor=white"/>
+
+</div>
 
 <div align="center">
 
